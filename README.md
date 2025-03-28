@@ -2,7 +2,23 @@
 
 An implementation of the CSM(Conversation Speech Model) for Apple Silicon using MLX.
 
-## Installation
+### Installation of the CLI
+
+```bash
+# Recommendation: uv tools - works best!
+uv tool install "git+https://github.com/senstella/csm-mlx[cli]"
+
+# Or with pipx
+pipx install "git+https://github.com/senstella/csm-mlx[cli]"
+```
+
+### Basic Text-to-Speech
+
+```bash
+csm-mlx "Hello from Sesame." -o output.wav
+```
+
+## Installation of the package
 
 Recommendation: Give [`uv`](https://docs.astral.sh/uv/) a try. It's truly magical.
 ```bash
@@ -87,7 +103,7 @@ audio = generate(
 
 ```python
 from mlx import nn
-from mlx_lm.sample_utils import make_sampler make_logits_processors
+from mlx_lm.sample_utils import make_sampler, make_logits_processors
 from huggingface_hub import hf_hub_download
 from csm_mlx import CSM, csm_1b, generate
 
