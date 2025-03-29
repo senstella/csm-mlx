@@ -12,3 +12,13 @@ wheels/
 # uv
 uv.lock
 .python-version
+
+# MLX
+.mlx/
+
+# datasets
+datasets/audio/
+
+# Finetuning
+lora_finetune_output/
+finetune_output/
