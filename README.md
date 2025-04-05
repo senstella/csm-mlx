@@ -194,13 +194,13 @@ pipx install "git+https://github.com/senstella/csm-mlx[cli]"
 #### Basic Text-to-Speech
 
 ```bash
-csm-mlx "Hello from Sesame." -o output.wav
+csm-mlx generate "Hello from Sesame." -o output.wav
 ```
 
 #### With Options
 
 ```bash
-csm-mlx "Hello from Sesame." \
+csm-mlx generate "Hello from Sesame." \
   --output output.wav \
   --model 1b \
   --speaker 0 \
@@ -216,7 +216,7 @@ You can provide conversation context to make the generated speech more natural â
 You must provide audio & text & speaker in the pair.
 
 ```bash
-csm-mlx "Nice to meet you too!" \
+csm-mlx generate "Nice to meet you too!" \
   --output response.wav \
   --input-audios previous.wav \
   --input-texts "Hello, nice to meet you." \
@@ -232,7 +232,7 @@ uv run --with 'git+https://github.com/senstella/csm-mlx[cli]' --python 3.12 pyth
 ### CLI Reference
 
 ```
-csm-mlx [TEXT] [OPTIONS]
+csm-mlx generate [TEXT] [OPTIONS]
 ```
 
 #### Arguments

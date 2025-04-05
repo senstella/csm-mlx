@@ -7,6 +7,12 @@ class Models(str, Enum):
     _1b = "1b"
 
 
+class OptimizerChoice(str, Enum):
+    ADAM = "adam"
+    SGD = "sgd"
+    ADAMW = "adamw"
+
+
 MODEL = {
     "1b": {
         "loader": {

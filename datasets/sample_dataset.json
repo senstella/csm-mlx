@@ -1,0 +1,527 @@
+[
+  {
+    "text": "\"Tom, we're having a problem with the gyro stabilizer,\" said Mark Faber, gray haired president of the Faber Electronics Company.",
+    "audio_path": "datasets/audio/251_137823_000002_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Hope you can find out what's wrong.",
+    "audio_path": "datasets/audio/251_137823_000002_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The eighteen year old inventor accepted the challenge with a smile. \"I'll be glad to try, sir,\" he replied.",
+    "audio_path": "datasets/audio/251_137823_000003_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Bud Barclay, a dark haired young flier and Tom Swift Jr's closest friend, chuckled.",
+    "audio_path": "datasets/audio/251_137823_000004_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "If anyone can get the bugs out of your new invention, genius boy here will do it!",
+    "audio_path": "datasets/audio/251_137823_000004_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The two boys followed mr Faber and his engineers to a wooden building which was tightly guarded.",
+    "audio_path": "datasets/audio/251_137823_000005_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Inside, a secret rocket telemetering device was mounted on its test stand.",
+    "audio_path": "datasets/audio/251_137823_000005_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "As you know, Tom,\" mr Faber began, \"the usual conditions of rocket flight will be-",
+    "audio_path": "datasets/audio/251_137823_000006_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "He broke off with a gasp of astonishment as the whole building suddenly began to shake.",
+    "audio_path": "datasets/audio/251_137823_000007_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Good grief!\" Bud exclaimed.",
+    "audio_path": "datasets/audio/251_137823_000008_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "This isn't part of your testing routine, is it?",
+    "audio_path": "datasets/audio/251_137823_000008_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The walls and roof were shuddering and creaking, and the concrete floor was heaving under their feet.",
+    "audio_path": "datasets/audio/251_137823_000009_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Look out!",
+    "audio_path": "datasets/audio/251_137823_000011_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The test stand's breaking loose!\" Tom warned.",
+    "audio_path": "datasets/audio/251_137823_000011_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Another engineer rushed toward the door to see what was happening outside.",
+    "audio_path": "datasets/audio/251_137823_000012_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Before he reached it, another shock knocked all of them off their feet.",
+    "audio_path": "datasets/audio/251_137823_000012_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Electronic equipment cascaded from the wall shelves, and a heavy duty chain hoist came loose from its overhead track, plunging to the floor with a terrifying crash.",
+    "audio_path": "datasets/audio/251_137823_000013_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"An earthquake!\" Tom gasped.",
+    "audio_path": "datasets/audio/251_137823_000014_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"The roof! It's caving in!\" he heard someone scream.",
+    "audio_path": "datasets/audio/251_137823_000015_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Bud threw up his arms to protect himself, but too late!",
+    "audio_path": "datasets/audio/251_137823_000017_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "A falling beam caught him on the back of the head and the young flier blacked out.",
+    "audio_path": "datasets/audio/251_137823_000017_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "For minutes, no one stirred among the wreckage.",
+    "audio_path": "datasets/audio/251_137823_000018_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Then Tom, who had been stunned by some falling debris, raised himself to a sitting position.",
+    "audio_path": "datasets/audio/251_137823_000018_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Good night!\" Tom's eyes focused in horror on the wreckage enveloped by still billowing dust.",
+    "audio_path": "datasets/audio/251_137823_000019_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Only two thirds of the walls were still standing.",
+    "audio_path": "datasets/audio/251_137823_000020_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Suddenly Tom stiffened in fear.",
+    "audio_path": "datasets/audio/251_137823_000021_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Disregarding his own injuries, Tom hastily freed himself from the debris and groped his way to Bud's side.",
+    "audio_path": "datasets/audio/251_137823_000022_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "With a desperate heave, he shoved the beam away, then cradled Bud's head in his arm.",
+    "audio_path": "datasets/audio/251_137823_000022_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "His friend's eyelids flickered.",
+    "audio_path": "datasets/audio/251_137823_000022_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Are you all right?\" Tom asked fearfully.",
+    "audio_path": "datasets/audio/251_137823_000023_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The answer came in a groan.",
+    "audio_path": "datasets/audio/251_137823_000024_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Wow!...",
+    "audio_path": "datasets/audio/251_137823_000024_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "What hit me?\"",
+    "audio_path": "datasets/audio/251_137823_000024_000003.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"You got conked by a falling timber.",
+    "audio_path": "datasets/audio/251_137823_000025_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Or grazed, at least,\" Tom added thankfully.",
+    "audio_path": "datasets/audio/251_137823_000025_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "If that beam had landed square on your noggin, even a rock head like you couldn't have survived!",
+    "audio_path": "datasets/audio/251_137823_000025_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"We grow 'em tough out in California where I come from!\" he joked.",
+    "audio_path": "datasets/audio/251_137823_000026_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Somewhat shakily, Bud got to his feet with Tom's assistance.",
+    "audio_path": "datasets/audio/251_137823_000027_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "He had heard about the great San Francisco earthquake from his grandfather, and had no doubt about the nature of the tremors.",
+    "audio_path": "datasets/audio/251_137823_000028_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"mr Faber!\" he gasped.",
+    "audio_path": "datasets/audio/251_137823_000030_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The two boys scrambled through the clutter of debris toward the spot where the test stand had been erected.",
+    "audio_path": "datasets/audio/251_137823_000031_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Bud seized a slender, steel I beam and managed to pry up the wreckage while Tom carefully extricated mr Faber.",
+    "audio_path": "datasets/audio/251_137823_000031_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The scientist seemed to be badly injured.",
+    "audio_path": "datasets/audio/251_137823_000032_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"We'd better not try to move him,\" Tom decided.",
+    "audio_path": "datasets/audio/251_137823_000032_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Of the four other company engineers, two were now stirring and partly conscious.",
+    "audio_path": "datasets/audio/251_137823_000033_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The boys found a first aid cabinet and gave what help they could to them and the other two men.",
+    "audio_path": "datasets/audio/251_137823_000033_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Then Tom taped a bandage on Bud's scalp wound.",
+    "audio_path": "datasets/audio/251_137823_000033_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Let's see if we can find a telephone and call the local hospital,\" Tom said.",
+    "audio_path": "datasets/audio/251_137823_000034_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Right!\" Bud responded.",
+    "audio_path": "datasets/audio/251_137823_000035_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "They picked their way through the wreckage and emerged on a scene of frightful destruction.",
+    "audio_path": "datasets/audio/251_137823_000036_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The main plant building of Faber Electronics had been partially demolished by the quake.",
+    "audio_path": "datasets/audio/251_137823_000036_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Power lines were down and an outlying storage shed was ablaze.",
+    "audio_path": "datasets/audio/251_137823_000036_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Dazed and panic stricken survivors were wandering around aimlessly or rushing about to assist the injured.",
+    "audio_path": "datasets/audio/251_137823_000036_000003.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Good thing the main shift of workers knocked off before this happened,\" Bud observed with a shudder.",
+    "audio_path": "datasets/audio/251_137823_000037_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "There would've been a lot more casualties.",
+    "audio_path": "datasets/audio/251_137823_000037_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Look!\" Tom pointed to a huge crevasse.",
+    "audio_path": "datasets/audio/251_137823_000038_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Right where we landed our Whirling Duck!",
+    "audio_path": "datasets/audio/251_137823_000038_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The boys exchanged rueful glances as they realized that the craft which had brought them to Faber Electronics-one of Tom's unique helijets-had been swallowed up in the gaping chasm.",
+    "audio_path": "datasets/audio/251_137823_000039_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"No use fussing about it now,\" Tom said.",
+    "audio_path": "datasets/audio/251_137823_000040_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Come on, Bud!",
+    "audio_path": "datasets/audio/251_137823_000040_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Let's see about getting help for mr Faber!\"",
+    "audio_path": "datasets/audio/251_137823_000040_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Despite the chaotic confusion, the boys managed to locate the plant superintendent-a harried, middle aged man named Simkins-who was doing his best to restore order.",
+    "audio_path": "datasets/audio/251_137823_000041_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"mr Faber is badly injured,\" Tom said.",
+    "audio_path": "datasets/audio/251_137823_000042_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Why not send a car?",
+    "audio_path": "datasets/audio/251_137823_000042_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "It's only a few miles away, isn't it?\"",
+    "audio_path": "datasets/audio/251_137823_000042_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Tough break,\" Tom sympathized.",
+    "audio_path": "datasets/audio/251_137823_000044_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Anyhow, we want to help.",
+    "audio_path": "datasets/audio/251_137823_000044_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Got a job for us?\"",
+    "audio_path": "datasets/audio/251_137823_000044_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Within minutes, Tom was in charge of clearing away rubble and extricating anyone who might be trapped inside the buildings. Bud organized a fire fighting crew to keep the blaze in the shed from spreading.",
+    "audio_path": "datasets/audio/251_137823_000045_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The telephone line was soon repaired and a steady stream of rescue vehicles began arriving from Harkness-fire trucks, three ambulances, and private cars driven by volunteers.",
+    "audio_path": "datasets/audio/251_137823_000046_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Two hours later there was nothing more Tom and Bud could do at the disaster scene and they hitched a ride into Harkness.",
+    "audio_path": "datasets/audio/251_137823_000047_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The town had suffered some damage, though only slight compared to the destruction at the plant.",
+    "audio_path": "datasets/audio/251_137823_000047_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"The center of the quake was right under Faber Electronics,\" Tom remarked.",
+    "audio_path": "datasets/audio/251_137823_000048_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "From a pay telephone, he called Swift Enterprises in Shopton.",
+    "audio_path": "datasets/audio/251_137823_000049_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Tom asked the operator to send a helicopter immediately to pick them up.",
+    "audio_path": "datasets/audio/251_137823_000049_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "He also called home and spoke to his sister, Sandra.",
+    "audio_path": "datasets/audio/251_137823_000049_000003.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"What a relief!\" Sandy gasped.",
+    "audio_path": "datasets/audio/251_137823_000050_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "We heard a bulletin about the quake over the radio!",
+    "audio_path": "datasets/audio/251_137823_000050_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Don't worry, Sis.",
+    "audio_path": "datasets/audio/251_137823_000051_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Tell Mother and Dad that we're okay,\" Tom said. \"We'll be home in a jiffy-with big appetites!\"",
+    "audio_path": "datasets/audio/251_137823_000051_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The helicopter arrived within twenty minutes at the place Tom had named. After landing at Enterprises, the boys drove to the pleasant, tree shaded Swift home on the outskirts of town.",
+    "audio_path": "datasets/audio/251_137823_000052_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "mrs Swift, a slender, petite woman, tried not to show concern when she saw the boys, bruised and disheveled.",
+    "audio_path": "datasets/audio/251_137823_000053_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"I'm so thankful you're both safe!\" she murmured.",
+    "audio_path": "datasets/audio/251_137823_000053_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Phyl, a pretty, dark haired girl, was the daughter of mr Swift's long-time friend and business associate, \"Uncle Ned\" Newton.",
+    "audio_path": "datasets/audio/251_137823_000054_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "The two girls were as much upset as Tom's mother.",
+    "audio_path": "datasets/audio/251_137823_000054_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Tom laughed.",
+    "audio_path": "datasets/audio/251_137823_000055_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"We're not stretcher cases,\" he said.",
+    "audio_path": "datasets/audio/251_137823_000055_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Why, one of the ambulance doctors checked us out.",
+    "audio_path": "datasets/audio/251_137823_000055_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Why did you have to go and spoil it?\" he complained jokingly.",
+    "audio_path": "datasets/audio/251_137823_000056_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "I was all set for Sandy's cool soothing touch on my fevered brow!",
+    "audio_path": "datasets/audio/251_137823_000056_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "I tried to assure them that you and Bud can take care of yourselves in any crisis.\" He smiled guiltily as he added, \"But I must admit I was more than a little concerned myself.",
+    "audio_path": "datasets/audio/251_137823_000057_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "After the two boys had showered and changed their clothes, mrs Swift served them a delicious, hot meal.",
+    "audio_path": "datasets/audio/251_137823_000059_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "While they ate, mr Swift managed after some difficulty to get a call through to the Harkness Hospital. His face was grave as he hung up.",
+    "audio_path": "datasets/audio/251_137823_000059_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Mark Faber is not expected to live,\" the elder inventor reported.",
+    "audio_path": "datasets/audio/251_137823_000060_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"A pity.",
+    "audio_path": "datasets/audio/251_137823_000060_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "He's a great scientist.\"",
+    "audio_path": "datasets/audio/251_137823_000060_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Tom nodded unhappily.",
+    "audio_path": "datasets/audio/251_137823_000061_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Sandy, to take her brother's mind off the disaster, said, \"Dad, tell Tom and Bud about the visitor who's coming.\"",
+    "audio_path": "datasets/audio/251_137823_000061_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"A visitor?\" Tom looked at his father.",
+    "audio_path": "datasets/audio/251_137823_000062_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"From another planet,\" mr Swift revealed.",
+    "audio_path": "datasets/audio/251_137823_000063_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Both boys were amazed and excited.",
+    "audio_path": "datasets/audio/251_137823_000064_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"Wow!\" Bud gasped.",
+    "audio_path": "datasets/audio/251_137823_000064_000001.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "Male or female? Human or animal?",
+    "audio_path": "datasets/audio/251_137823_000064_000002.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "mr Swift's eyes twinkled.",
+    "audio_path": "datasets/audio/251_137823_000065_000000.wav",
+    "speaker_id": 99
+  },
+  {
+    "text": "\"None of those,\" he replied as the boys stared, mystified.",
+    "audio_path": "datasets/audio/251_137823_000065_000001.wav",
+    "speaker_id": 99
+  }
+]
